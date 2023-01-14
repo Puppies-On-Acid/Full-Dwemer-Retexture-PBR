@@ -3,4 +3,5 @@ OpenMW 0.48+  PBR and Normal maps for Full Dwemer Retexture.
 
 Requirements:
 https://github.com/zesterer/openmw-shaders
+and
 https://www.nexusmods.com/morrowind/mods/44264
